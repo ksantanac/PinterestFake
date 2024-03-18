@@ -14,7 +14,7 @@ Este é um projeto desenvolvido em Python utilizando Flask, HTML e CSS para cria
 
 ### Tela de Login
 
-![Tela de Login](screenshots/login.png)
+[![Tela de Login](screenshots/login.png)](https://github.com/ksantanac/PinterestFake/issues/1#issue-2191116091)
 
 Na tela de login, os usuários podem inserir seu email e senha. Se não tiverem uma conta, eles podem clicar no link para se cadastrar.
 
