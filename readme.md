@@ -31,7 +31,7 @@ Na tela principal, os usuários podem ver seu nome de usuário, escolher uma fot
 
 ### Perfil do Usuário
 
-![Perfil do Usuário](screenshots/perfil.png)
+![telafoto](https://github.com/ksantanac/PinterestFake/assets/127277943/212e35e2-a777-45a0-9b02-7370d94b3ace)
 
 No perfil do usuário, eles podem ver suas informações e as fotos que enviaram.
 
