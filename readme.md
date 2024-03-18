@@ -14,25 +14,24 @@ Este é um projeto desenvolvido em Python utilizando Flask, HTML e CSS para cria
 
 ### Tela de Login
 
-![Tela de Login](screenshots/login.png)
+![telaLogin](https://github.com/ksantanac/PinterestFake/assets/127277943/eca5c18c-1187-4956-9536-8103b71e77e9)
 
 Na tela de login, os usuários podem inserir seu email e senha. Se não tiverem uma conta, eles podem clicar no link para se cadastrar.
 
 ### Tela de Cadastro
-
-![Tela de Cadastro](screenshots/cadastro.png)
+![telaCadastro](https://github.com/ksantanac/PinterestFake/assets/127277943/cfaeec3e-8396-4dc1-a740-f7226f12423e)
 
 Na tela de cadastro, os usuários podem preencher seus dados, incluindo email, nome de usuário, senha e confirmar a senha.
 
 ### Tela Principal
 
-![Tela Principal](screenshots/principal.png)
+![telahome](https://github.com/ksantanac/PinterestFake/assets/127277943/5823cf49-ffbf-4eb7-914f-ff3c0011c0ff)
 
 Na tela principal, os usuários podem ver seu nome de usuário, escolher uma foto para enviar para seu perfil e visualizar uma galeria de fotos de outros usuários. Eles também têm acesso aos botões "Perfil" e "Sair" para navegar para seu próprio perfil ou fazer logout, respectivamente.
 
 ### Perfil do Usuário
 
-![Perfil do Usuário](screenshots/perfil.png)
+![telafoto](https://github.com/ksantanac/PinterestFake/assets/127277943/212e35e2-a777-45a0-9b02-7370d94b3ace)
 
 No perfil do usuário, eles podem ver suas informações e as fotos que enviaram.
 
