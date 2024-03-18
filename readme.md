@@ -25,7 +25,7 @@ Na tela de cadastro, os usuários podem preencher seus dados, incluindo email, n
 
 ### Tela Principal
 
-![Tela Principal](screenshots/principal.png)
+![telahome](https://github.com/ksantanac/PinterestFake/assets/127277943/5823cf49-ffbf-4eb7-914f-ff3c0011c0ff)
 
 Na tela principal, os usuários podem ver seu nome de usuário, escolher uma foto para enviar para seu perfil e visualizar uma galeria de fotos de outros usuários. Eles também têm acesso aos botões "Perfil" e "Sair" para navegar para seu próprio perfil ou fazer logout, respectivamente.
 
