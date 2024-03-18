@@ -19,8 +19,7 @@ Este é um projeto desenvolvido em Python utilizando Flask, HTML e CSS para cria
 Na tela de login, os usuários podem inserir seu email e senha. Se não tiverem uma conta, eles podem clicar no link para se cadastrar.
 
 ### Tela de Cadastro
-
-![Tela de Cadastro](screenshots/cadastro.png)
+![telaCadastro](https://github.com/ksantanac/PinterestFake/assets/127277943/cfaeec3e-8396-4dc1-a740-f7226f12423e)
 
 Na tela de cadastro, os usuários podem preencher seus dados, incluindo email, nome de usuário, senha e confirmar a senha.
 
